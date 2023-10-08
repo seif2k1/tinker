@@ -1,0 +1,14 @@
+/* .main {
+  background: url("../../../public/asset/banner_bg.jpg");
+  position: absolute;
+}
+ */ /* 
+.main-bg {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  background: url(../../../public/asset/banner_bg.jpg) fixed no-repeat
+    center/cover;
+  height: 100%;
+  width: 100%;
+} */
